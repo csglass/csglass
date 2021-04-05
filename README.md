@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @csglass
+- 👀 I’m interested in design, photography and finding meaningful patterns in life.
+- 🌱 I’m currently learning what plants are appropriate for the season and how to make complex components in Figma.
+- 💞️ I’m looking to collaborate on anything that helps folks and communinities coexist and lead meaningful lives.
+- 📫 Hit me up on my <a href="https://chrisglass.com/contact/">website</a> or <a href="https://twitter.com/glass">Twitter</a> if you'd like to chat sometime.
